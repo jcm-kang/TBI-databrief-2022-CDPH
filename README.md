@@ -1,2 +1,4 @@
-# TBI-databrief-2022-CDPH
-This data brief highlights TBI cases among young Californians aged 0-24, focusing on non-fatal injuries that resulted in ED visits and hospitalizations. Data is from CA Department of Healthcare Access and Information (HCAI). This brief examines injury trends by age group, sex, and ethnicity, and identifies leading causes within these demographics.
+# Traumatic Brain Injury (TBI) Data Brief in Californians Aged 0-24, 2022
+## Injury and Violence Prevention Branch - California Department of Public Health (CDPH)
+
+Data Brief <a href="/0-24 TBIBrief_FINALADA_5.12.25.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
